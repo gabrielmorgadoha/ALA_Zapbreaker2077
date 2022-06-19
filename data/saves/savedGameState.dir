@@ -1,0 +1,7 @@
+'storyLevel', (0, 5)
+'playerNumber', (512, 5)
+'playerOnePoints', (1024, 5)
+'playerTwoPoints', (1536, 5)
+'playerThreePoints', (2048, 5)
+'playerFourPoints', (2560, 5)
+'playerFivePoints', (3072, 5)
